@@ -95,19 +95,19 @@ const About = () => {
               className="grid grid-cols-2 gap-6"
             >
               <div className="bg-card p-8 rounded-lg text-center hover-lift">
-              <img src="src/assets/sai.jpg" alt="SAI RASWANTH RD" className="w-full h-60 object-cover rounded-lg mb-4" />
+              <img src="/sai.jpg" alt="SAI RASWANTH RD" className="w-full h-60 object-cover rounded-lg mb-4" />
               <p className="text-muted-foreground font-body">SAI RASWANTH RD</p>
               </div>
               <div className="bg-card p-8 rounded-lg text-center hover-lift">
-              <img src="src/assets/kar.jpg" alt="KARMUGILAN T" className="w-full h-60 object-cover rounded-lg mb-4" />
+              <img src="/kar.jpg" alt="KARMUGILAN T" className="w-full h-60 object-cover rounded-lg mb-4" />
               <p className="text-muted-foreground font-body">KARMUGILAN T</p>
               </div>
               <div className="bg-card p-8 rounded-lg text-center hover-lift">
-              <img src="src/assets/satham.jpg" alt="SATHAM USSEN M" className="w-full h-60 object-cover rounded-lg mb-4" />
+              <img src="/satham.jpg" alt="SATHAM USSEN M" className="w-full h-60 object-cover rounded-lg mb-4" />
               <p className="text-muted-foreground font-body">SATHAM USSEN M</p>
               </div>
               <div className="bg-card p-8 rounded-lg text-center hover-lift">
-              <img src="src/assets/dinesh.jpg" alt="DINESH KUMAR R" className="w-full h-60 object-cover rounded-lg mb-4" />
+              <img src="/dinesh.jpg" alt="DINESH KUMAR R" className="w-full h-60 object-cover rounded-lg mb-4" />
               <p className="text-muted-foreground font-body">DINESH KUMAR R</p>
               </div>
             </motion.div>
